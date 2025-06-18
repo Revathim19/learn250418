@@ -1,0 +1,1 @@
+[{"name":"rev","age":36,"physics_score":45,"maths_score":56,"chemistry_score":67},{"name":"rav","age":36,"physics_score":100,"maths_score":100,"chemistry_score":100}]

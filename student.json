@@ -1,0 +1,16 @@
+[
+  {
+    "name": "rev",
+    "age": 36,
+    "physics_score": 56,
+    "maths_score": 67,
+    "chemistry_score": 78
+  },
+  {
+    "name": "rav",
+    "age": 37,
+    "physics_score": 100,
+    "maths_score": 100,
+    "chemistry_score": 100
+  }
+]
