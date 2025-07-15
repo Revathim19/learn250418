@@ -7,13 +7,13 @@ class Student {
 
   Student(this.name, this.age, this.standard);
 
- /* String toString() {
+  String toString() {
     return '$name,$age,$standard';
-  }*/
-
-void write(IOSink sink) {
-    sink.writeln(name + "," + age.toString() + "," + standard.toString());
   }
+
+/*void write(IOSink sink) {
+    sink.writeln(name + "," + age.toString() + "," + standard.toString());
+  }*/
 }
 
 void main() {
@@ -37,8 +37,8 @@ void main() {
 
     Student student = Student(name, age, standard);
     print(student);
-  //  sink.writeln(student);
-    student.write(sink);
+   sink.writeln(student);
+   // student.write(sink);
 
     students.add(student);
     print(students);
